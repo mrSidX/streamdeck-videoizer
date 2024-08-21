@@ -13,6 +13,12 @@ OVERVIEW:
 Takes an animated GIF and chops it up for Stream Deck (5 * 3)
 
 INSTALLATION:
+
+PREREQUISITES:
+
+You must have ImageMagick installed (7+)
+Also FFMPEG
+
 -Create a folder on your computer and copy this script into it.
 -Download your video and convert it to GIF (not tested with videos yet, but intended to be capable)
 -You can run a command in Windows (WSL), or Linux / Mac:
