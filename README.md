@@ -20,3 +20,10 @@ INSTALLATION:
 
 This will create an output directory with your video segments chopped up.
 You will see a row and a column associated in the file name for easy placement.
+
+
+
+REFERENCES:
+
+Convert to GIF via EZGIF online.
+https://ezgif.com/webp-to-gif
