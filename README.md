@@ -1,6 +1,10 @@
 # streamdeck-videoizer
 
+******This will convert GIFS into animated icon segments to use with Stream Deck******
+
+
 DESCRIPTION OF FUNCTION:
+
 Converts GIFS (and potentially videos) to animated segments that can be used with Stream Deck.
 Put icons in place accordingly to create a full screen (on Stream Deck) animation of that original GIF.
 
@@ -16,4 +20,3 @@ INSTALLATION:
 
 This will create an output directory with your video segments chopped up.
 You will see a row and a column associated in the file name for easy placement.
-
